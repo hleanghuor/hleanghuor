@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hleanghuor
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently doing Flutter & Xamarin Forms
+- 🌱 Flutter, Swift UI, Android & Xamarin Forms
 
 - 📫 h.leanghuor@gmail.com
 
